@@ -1,86 +1,25 @@
-# wabot-aq
+<img src="https://i.ibb.co/z6cq75T/repositorio.gif" alt="Boss-oficial" width="170" />
 
-Simple WhatsApp Bot
+## Boss oficial
 
-## FOR TERMUX USER
+</div>
 
-```bash
-> pkg update && pkg upgrade
-> pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
-> git clone https://github.com/Arya274/wabot-aq
-> cd wabot-aq
-> npm install
-```
+<p align="center">
+<a href="##"><img title="Bot-By-Boss" src="https://img.shields.io/static/v1?label=Lenguaje&message=Espa%C3%B1ol&color=blue"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Boss-oficial"><img title="Author" src="https://img.shields.io/badge/Author-Boss oficial-blue.svg?style=for-the-badge&logo=github" /></a>
+</p>
+<p align="center">
+<a href="#"><img title="Boss-ofc" src="https://img.shields.io/static/v1?label=WhatsApp&message=Bot&color=blue"></a>
+</p>
 
----------
 
-## FOR WINDOWS/VPS/RDP USER
 
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6)
+## Preguntás/Reclutamiento
+Aqui abajo te dejo mi WhatsApp personal 😋
+<p align="center">
+ <a href="https://wa.me/51918010637"><img alt="WhatsApp Personal" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+</p>
 
-```bash
-> git clone https://github.com/Arya274/wabot-aq
-> cd wabot-aq
-> npm install
-```
-
----------
-
-## Run
-
-```bash
-> node . [<session name>] (session name is optional)
-```
-
----------
-
-## Arguments `node . [--options] [<session name>]`
-
-### `--self`
-
-Activate self mode (Ignores other)
-
-### `--prefix <prefixes>`
-
-* `prefixes` are seperated by each character
-Set prefix
-
-### `--server`
-
-Used for [heroku](https://heroku.com/) or scan through website
-
-### `--big-qr`
-
-If small qr unicode doesn't support
-
-### `--restrict`
-
-Enables restricted plugins (which can lead your number to be **banned** if used too often)
-
-* Group Administration `add, kick`
-
-### `--img`
-
-Enable image inspector through terminal
-
-### `--nyimak`
-
-No bot, just print received messages and add users to database
-
-### `--test`
-
-**Development** Testing Mode
-
----------
-
-#### Powered By : [`XTEAM`](https://api.xteam.xyz)
-
-#### Author / Creator : [`Nurutomo`](https://GitHub.com/Nurutomo)
-
-## Watermark By: [`DrawlNag`](https://youtube.com/c/DrawlNag)
+* [`Mi Canal )https://chat.whatsapp.com/LXG9se6ItD80B5ngpL1ewa
